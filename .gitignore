@@ -1,0 +1,11 @@
+**.ipynb
+
+__pycache__/
+
+venv/
+.venv/
+
+data/
+vectorstore_data/
+
+.env
